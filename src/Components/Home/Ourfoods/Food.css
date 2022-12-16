@@ -1,0 +1,112 @@
+.ffun img {
+    width: 350px;
+    height: 250px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.ffun h4 {
+    font-size: 18px;
+    color: rgb(48, 4, 4);
+    margin: 15px 0;
+}
+
+.ffun h5 {
+    color: black;
+    opacity: 70%;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.ffun h3 {
+    color: #ab3550;
+}
+
+.ffun del {
+    margin-left: 5px;
+    color: gray;
+}
+
+.ffun button {
+    border: none;
+    background-color: #ab3550;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    transition: .3s all;
+    box-shadow: -3px -1px 9px 0px #dfd0d0;
+}
+
+.ffun button:hover {
+    background-color: white;
+    border: 3px solid #ab3550;
+}
+
+.ffun button a {
+    text-decoration: none;
+    color: white;
+    transition: .3s all;
+}
+
+.ffun button a:hover {
+    color: #ab3550;
+}
+
+.ffun .cont {
+    width: 350px;
+    height: 450px;
+    text-align: center;
+}
+
+.ggg {
+    text-align: center;
+}
+
+.ffun h2 {
+    color: white;
+}
+
+.ab {
+    background: url("../../../Site-images/sll.jpg") fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.ffun {
+    text-align: center;
+}
+
+.dd {
+    padding: 50px 0;
+}
+
+.dd h3 {
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: rgb(39, 10, 10);
+}
+
+.dd input {
+    width: 300px;
+    height: 42px;
+    margin-right: 20px;
+    border: 2px solid #ab3550;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.sct {
+    margin-top: 0px;
+}

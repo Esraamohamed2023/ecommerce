@@ -1,0 +1,26 @@
+h2 {
+    font-size: 35px;
+    color: rgb(70, 11, 11);
+    font-weight: bold;
+}
+
+.row {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.function span {
+    color: #ab3550;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.function h3 {
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.function p {
+    font-size: 16px;
+    line-height: 20px;
+}

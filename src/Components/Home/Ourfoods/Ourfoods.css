@@ -1,0 +1,22 @@
+    .frt {
+        text-align: center;
+    }
+    
+    .frt .row:first-child {
+        text-align: center;
+        margin: 25px 0;
+    }
+    
+    .frt .row h2 {
+        width: 100%;
+        margin: 10px 0;
+        line-height: 50px;
+        font-weight: bold;
+        color: rgb(90, 5, 5);
+        text-transform: capitalize;
+        font-size: 40px;
+    }
+    
+    .frt .row p {
+        font-size: 16px;
+    }

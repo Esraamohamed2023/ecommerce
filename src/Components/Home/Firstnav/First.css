@@ -1,0 +1,55 @@
+#Firstnav {
+    color: White;
+    font-weight: bold;
+}
+
+#Firstnav span {
+    color: green
+}
+
+#nav {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-text {
+    background-color: green;
+    max-width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.navbar-text a {
+    color: white !important;
+    text-transform: capitalize !important;
+    text-decoration: none !important;
+}
+
+.frs {
+    background-color: rgb(77, 76, 76);
+    border-radius: 5px;
+    max-width: 200px !important;
+    height: 35px;
+    padding: 4px;
+}
+
+.frs a h6 {
+    font-size: 12px;
+}
+
+.cols {
+    max-width: 500px !important;
+}
+
+.secn {
+    max-width: 120px;
+    background-color: rgb(77, 76, 76);
+    border-radius: 5px;
+    height: 35px;
+}
+
+.secn a h6 {
+    font-size: 11px;
+}

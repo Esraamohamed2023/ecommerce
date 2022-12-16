@@ -1,0 +1,100 @@
+    section {
+        margin-top: 100px;
+        height: auto;
+    }
+    
+    section h2 {
+        color: rgb(63, 10, 10);
+        font-size: 35px;
+        padding: 20px 0;
+    }
+    
+    section p {
+        line-height: 28px;
+        font-size: 19px;
+        max-width: 100%;
+        margin: 15px 0;
+    }
+    
+    section button {
+        width: 150px;
+        box-sizing: border-box;
+        height: 40px;
+        background-color: #ab3550;
+        border: none;
+        transition: .3s all;
+        text-align: center;
+        display: block;
+    }
+    
+    section button:hover {
+        background-color: white;
+        color: #ab3550;
+        border: 3px solid #ab3550;
+    }
+    
+    section button a {
+        color: white;
+        font-size: 16px;
+        font-weight: bold;
+        text-decoration: none;
+        transition: .3s all;
+    }
+    
+    section button a:hover {
+        color: #ab3550;
+        text-decoration: none;
+    }
+    
+    section ul {}
+    
+    section ul li {
+        font-size: 16px;
+        line-height: 28px;
+        width: 320px;
+        margin-left: 0;
+    }
+    
+    section img {
+        max-width: 100%;
+        height: 100%;
+    }
+    
+    .plx {
+        background: url("../../../Site-images/cy.jpg")fixed;
+        background-size: cover;
+        background-repeat: no-repeat;
+        text-align: center;
+        padding: 100px 0;
+        width: 100%;
+    }
+    
+    .plx h2 {
+        font-size: 50px;
+        color: #ab3550;
+        width: 100%;
+    }
+    
+    .plx p {
+        font-size: 16px;
+        line-height: 32px;
+        color: black;
+        margin: 15px 0;
+    }
+    
+    .plx a {
+        font-size: 20px;
+        color: rgb(31, 8, 8);
+        cursor: pointer;
+        text-decoration: none;
+    }
+    
+    .plx .row {
+        margin: 50px 0;
+    }
+    
+    .plx h5 a:hover {
+        color: #ab3550;
+        font-weight: bold;
+        text-decoration: none;
+    }

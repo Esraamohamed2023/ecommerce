@@ -1,0 +1,283 @@
+                .frtp {
+                    display: flex;
+                    justify-content: space-between;
+                    max-width: 100%;
+                    padding: 10px 0;
+                }
+                
+                .allpart {
+                    display: flex;
+                    justify-content: center;
+                    text-align: center;
+                }
+                
+                .frtp .tt {
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: space-evenly;
+                }
+                
+                .frtp button {
+                    width: 80px;
+                    height: 40px;
+                    border-radius: 7px;
+                    background-color: gray;
+                    text-align: center;
+                    align-items: center;
+                    color: white;
+                    text-decoration: none;
+                }
+                
+                .frtp button:hover {
+                    background-color: rgb(22, 22, 163);
+                }
+                
+                .frtp button a {
+                    font-weight: bold;
+                    color: white;
+                    text-decoration: none;
+                }
+                
+                .buttompage hr {
+                    color: rgb(8, 8, 132);
+                    max-width: 90%;
+                    margin-top: 0px;
+                }
+                
+                .frtp {}
+                
+                .frtp .tt {
+                    width: 300px;
+                }
+                
+                .buttompage {
+                    min-height: 900px;
+                    border: 2px solid rgb(8, 8, 132);
+                    max-width: 500px;
+                    text-align: center;
+                    padding: 20px 0;
+                    align-items: center;
+                }
+                
+                .Google {
+                    display: flex;
+                    background-color: rgb(52, 52, 141);
+                    justify-content: center;
+                    border-radius: 5px;
+                    text-align: center;
+                    cursor: pointer;
+                    width: fit-content;
+                }
+                
+                .Google img {
+                    width: 40px;
+                    height: 100%;
+                    border-radius: 4px;
+                    background-color: white;
+                    justify-self: flex-start;
+                }
+                
+                .Google h5 {
+                    color: white;
+                    display: flex;
+                    justify-content: center;
+                    padding: 5px 0px 3px 0;
+                    /* justify-self: baseline; */
+                }
+                
+                hr {
+                    color: rgb(8, 8, 132);
+                    margin-top: 50px;
+                    height: 2px;
+                }
+                
+                .twoin {
+                    display: flex;
+                    justify-content: space-evenly;
+                    margin: 30px 0;
+                    flex-wrap: wrap;
+                }
+                
+                .twoin input {
+                    max-width: 300px;
+                    border-radius: 5px;
+                }
+                
+                input:focus {
+                    border: 2px solid rgb(8, 8, 132);
+                    ;
+                }
+                
+                .buttonpage label {
+                    font-size: 16px;
+                    font-weight: bold;
+                    display: flex !important;
+                    justify-content: start;
+                    width: 50%;
+                }
+                
+                .em input {
+                    width: 90%;
+                }
+                
+                p {
+                    font-size: 16px;
+                    margin-top: 20px;
+                }
+                
+                .check {
+                    border: 2px solid gray;
+                    max-width: 200px;
+                    height: 50px;
+                    text-align: center;
+                    align-items: center;
+                    font-size: 15px;
+                    font-weight: bold;
+                    padding: 10px;
+                    display: flex;
+                    justify-content: space-evenly;
+                    background-color: #eeee;
+                    text-transform: capitalize;
+                }
+                
+                .check input {
+                    width: 30px;
+                    height: 25px;
+                }
+                
+                .ttt {
+                    border: none;
+                    background-color: white;
+                    /* height: 100px;
+    width: 300px; */
+                    display: flex;
+                    justify-content: start;
+                    margin: 20px;
+                }
+                
+                .ttt input {
+                    width: 30px;
+                    height: 25px;
+                }
+                
+                .ttt p {
+                    font-size: 16px;
+                    font-weight: normal;
+                }
+                
+                p {
+                    font-size: 13px;
+                    text-transform: capitalize;
+                }
+                
+                .buttompage .btnn {
+                    display: flex;
+                    justify-content: end;
+                    border-radius: 5px;
+                }
+                
+                .btnn {
+                    background: #eeee;
+                    height: 70px;
+                    padding: 10px;
+                }
+                
+                .btnn input {
+                    background-color: green;
+                    height: 50px;
+                    border: none;
+                    border-radius: 5px;
+                    color: white;
+                    font-weight: bold;
+                }
+                
+                .ctn {
+                    display: flex;
+                    justify-content: center;
+                    margin: 15px 0;
+                }
+                
+                .row .inbox {
+                    border: 2px solid rgb(8, 8, 132);
+                    padding: 10px;
+                    height: 230px;
+                    background-color: #eeee;
+                    width: 300px;
+                    margin: 10px 20px;
+                }
+                
+                .inbox .flx {
+                    display: flex;
+                    justify-content: space-between;
+                }
+                
+                .inbox hr {
+                    width: 100%;
+                }
+                
+                .eventcomp {}
+                
+                .container {
+                    overflow: hidden;
+                }
+                
+                .sgn {
+                    text-align: center;
+                }
+                
+                .sgn .nv {
+                    background-color: black;
+                    height: 40px;
+                    width: 500px;
+                    margin-left: -15px;
+                }
+                
+                .nv h3 {
+                    color: white;
+                }
+                
+                .eventcomp {}
+                
+                .eventcomp form {
+                    display: flex;
+                    flex-wrap: wrap;
+                    flex-direction: column;
+                    height: 150px;
+                    margin-bottom: 0;
+                }
+                
+                .eventcomp form input {
+                    display: block;
+                    margin-bottom: 5px;
+                    height: 40px;
+                    border: 2px solid #ab3550;
+                }
+                
+                .eventcomp form button {
+                    background-color: green;
+                    display: flex;
+                    justify-content: center;
+                    margin-bottom: 5px;
+                }
+                
+                .eventcomp form button input {
+                    background-color: green;
+                    border: none;
+                    color: white;
+                    font-weight: bold;
+                }
+                
+                .eventcomp form .fni {
+                    height: 100px;
+                }
+                
+                .fni p {
+                    font-size: 10px;
+                }
+                
+                u {
+                    color: rgb(92, 92, 205);
+                    cursor: pointer;
+                }
+                
+                .container .sgn {}
