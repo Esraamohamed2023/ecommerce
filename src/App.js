@@ -1,4 +1,9 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import {
+  HashRouter as
+  BrowserRouter,
+  Routes,
+  Route,
+} from "react-router-dom";
 import Alertfun from "./Components/Buttompage/Alertfun";
 import Buttom from "./Components/Buttompage/Buttom";
 import Collect from "./Components/Buttompage/Collect";
