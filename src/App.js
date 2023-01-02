@@ -11,10 +11,10 @@ function App() {
   <div>
 <BrowserRouter>
 <Routes>
-<Route path="/React" element={<Home/>}></Route>
-<Route path="/Buttom" element={<Collect/>}></Route>
-<Route path="/create" element={<SignIn/>}></Route>
-<Route path="/order" element={<Alertfun/>}></Route>
+<Route path="/" element={<Home/>}></Route>
+<Route path="/:Buttom" element={<Collect/>}></Route>
+<Route path="/:create" element={<SignIn/>}></Route>
+<Route path="/:order" element={<Alertfun/>}></Route>
 </Routes>
 
 
