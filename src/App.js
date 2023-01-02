@@ -12,9 +12,9 @@ function App() {
 <BrowserRouter>
 <Routes>
 <Route path="/" element={<Home/>}></Route>
-<Route path="/:Buttom" element={<Collect/>}></Route>
-<Route path="/:create" element={<SignIn/>}></Route>
-<Route path="/:order" element={<Alertfun/>}></Route>
+<Route path="/Buttom" element={<Collect/>}></Route>
+<Route path="/create" element={<SignIn/>}></Route>
+<Route path="/order" element={<Alertfun/>}></Route>
 </Routes>
 
 

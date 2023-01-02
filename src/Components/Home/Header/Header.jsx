@@ -11,7 +11,7 @@ export default function Header() {
 <div className='col-md-6'>
 <h2>Good food choices are good investments.</h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et purus a odio finibus bibendum amet leo. </p>
-<button  > <a href="#ord" class="smooth-goto"/>Order now</button>
+<button><a href="#ordnow" class="smooth-goto"/>Order now</button>
 <button onClick={()=>window.prompt("For Learning More Call Us ")}>Learn more</button>
 </div>
 <div className='col-md-6 gg'>

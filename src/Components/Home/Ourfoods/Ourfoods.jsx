@@ -18,7 +18,7 @@ amet leo. Mauris feugiat erat tellus. Far far away, behind the word mountains, f
 </div>
 </div>
     </section>
-<section  for id="#ord"className='sct'>
+<section  id="#ordnow" className='sct'>
 <div className='container'>
 <div className='row'>
 

@@ -10,7 +10,7 @@ export default function Foodfun({img,title,num,num2,num3}) {
 <h5>{num}</h5>
 <h3>{num2}<del>{num3}</del></h3>
 <hr/>
-<button onClick={()=>window.open("/order","_blank","top=200,left=300,width=500,height=520" )}><a href='#'>Order Now</a></button></div>
+<button onClick={()=>window.open("/order","_blank","top=200,left=300,width=500,height=520" )}><a href='#ordnow'>Order Now</a></button></div>
 
     </div>
   )
